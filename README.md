@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I am a student at SMKN 2 BUDURAN<br>⚙️ I am a Full Stack Developer (Still Learning)<br>🤓 I like anime & comics
+🧑‍🎓 I am a student at Politeknik Elektronika Negeri Surabaya<br>⚙️ I am a Full Stack Developer (Still Learning)<br>🤓 I like anime & comics
 
 
 ## 🌐 Socials:
